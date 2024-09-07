@@ -1,0 +1,40 @@
+OpenCart 4 Slovak language
+
+Enhance your OpenCart store with full Slovak language support! This package includes all the required language files for the admin panel, frontend, extensions, and the installation process, providing complete localization for OpenCart versions 4.0.0.0 up to 4.0.2.3.
+
+Demo frontend - https://demo.playfulsparkle.com/opencart4/
+Demo backend - https://demo.playfulsparkle.com/opencart4/admin/
+
+Key Features
+
+*   Full Slovak localization for the backend, frontend, extensions, and installation of OpenCart 4.
+*   Compatible with OpenCart versions 4.0.0.0 through 4.0.2.3.
+*   Normalized translation phrases for consistent quality.
+
+Installation Guide
+
+1. Download the "OpenCart 4 Slovak language" extension package.
+2. Extract the language files from the package to your local machine.
+3. Using an FTP client (e.g., FileZilla), connect to your OpenCart 4 store’s server.
+4. Navigate to your OpenCart installation directory.
+5. Upload the language files to the root directory of your OpenCart installation.
+6. Log in to your OpenCart Admin panel.
+7. Go to System > Localisation > Languages:
+    1. Click on "Add New".
+    2. Language Name: Slovenčina
+    3. Code: sk-sk
+    4. Locale: sk_SK.UTF-8,sk_SK,slovak
+    5. Status: Enabled
+8. Then go to System > Settings and edit your store settings:
+    1. Click on the "Locale" tab and change the following settings:
+    2. Country: Slovak Republic
+    3. Region / State: Your preferred region
+    4. Time Zone: Europe/Bratislava (+02:00)
+    5. Language: Slovenčina
+    6. Administration Language: Slovenčina
+    7. Currency: Euro
+9. Click the "Save" button, and you're done!
+
+Support and Updates
+
+You will receive free updates after purchase for your OpenCart version 4. If future updates are released within the 4.x series, they will be included free of charge. If you have any issues or need help, support is available via email at support@playfulsparkle.com.
