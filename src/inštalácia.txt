@@ -11,9 +11,29 @@ Kľúčové vlastnosti
 *   Kompatibilné s verziami OpenCart od 4.0.0.0 po 4.0.2.3.
 *   Normalizované prekladové frázy pre konzistentnú kvalitu.
 
-Inštalačný sprievodca
+Inštalačný sprievodca (automaticky)
 
-1. Stiahnite si balíček „Slovenský jazyk pre OpenCart 4“.
+1. Stiahnite si balík rozšírenia "OpenCart 4 Slovak language".
+2. Prihláste sa do administratívneho panelu OpenCart.
+3. Prejdite na Rozšírenia > Inštalátor:
+   1. Kliknite na "Nahrať".
+   2. Vyhľadajte "OpenCart 4 Slovak language" a kliknite na "Inštalovať".
+   3. Prejdite na Rozšírenia a vyberte typ rozšírenia Jazyk.
+   4. Vyhľadajte "Slovak language" a kliknite na "Inštalovať".
+   5. Upravte jazyk a povoľte.
+4. Potom prejdite na System > Settings a upravte nastavenia vášho obchodu:
+    1. Kliknite na kartu „Locale“ a zmeňte nasledovné nastavenia:
+    2. Country: Slovenská republika
+    3. Region / State: Vami preferovaný región
+    4. Time Zone: Europe/Bratislava (+02:00)
+    5. Language: Slovenčina
+    6. Administration Language: Slovenčina
+    7. Currency: Euro
+5. Kliknite na tlačidlo „Save“ a máte hotovo!
+
+Inštalačný sprievodca (manuálne)
+
+1. Stiahnite si balíček „OpenCart 4 Slovak language“.
 2. Extrahujte jazykové súbory z balíčka do vášho zariadenia.
 3. Použitím FTP klienta (napr. FileZilla) sa pripojte na server vášho OpenCart obchodu.
 4. Prejdite do adresára s inštaláciou OpenCart.
