@@ -1,8 +1,8 @@
 {
-  "name": "OpenCart 4 Slovak language",
-  "code": "oc4_sk_language",
+  "name": "Slovak language",
+  "code": "ps_sk_language",
   "license": "GPL",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Playful Sparkle",
   "link": "https://github.com/playfulsparkle/oc4_sk_language.git"
 }
