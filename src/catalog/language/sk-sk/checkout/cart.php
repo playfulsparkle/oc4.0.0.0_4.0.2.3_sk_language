@@ -34,4 +34,4 @@ $_['error_stock']                = 'Produkty označené *** nie sú dostupné v 
 $_['error_minimum']              = 'Minimálna objednávka pre %s je %s!';
 $_['error_required']             = '%s je povinné!';
 $_['error_product']              = 'Upozornenie: Produkt sa nedá nájsť!';
-$_['error_subscription']         = 'Vyberte plán predplatného!';
+$_['error_subscription']         = 'Vyberte profil predplatného!';

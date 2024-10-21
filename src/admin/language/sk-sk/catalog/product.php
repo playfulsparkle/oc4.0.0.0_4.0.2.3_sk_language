@@ -101,7 +101,7 @@ $_['entry_related']           = 'Súvisiace produkty';
 $_['entry_tag']               = 'Štítky produktu';
 $_['entry_reward']            = 'Vernostné body';
 $_['entry_layout']            = 'Šablóna';
-$_['entry_subscription']      = 'Plán predplatného';
+$_['entry_subscription']      = 'Profil predplatného';
 
 // Help
 $_['help_tag']                = 'Oddelené čiarkou';

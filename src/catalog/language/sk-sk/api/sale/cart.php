@@ -18,4 +18,4 @@ $_['error_minimum']              = 'Minimálna objednávková suma pre %s je %s!
 $_['error_store']                = 'Produkt nemôže byť zakúpený v zvolenom obchode!';
 $_['error_required']             = '%s je povinné!';
 $_['error_product']              = 'Upozornenie: Produkt sa nenašiel!';
-$_['error_subscription']         = 'Vyberte plán predplatného!';
+$_['error_subscription']         = 'Vyberte profil predplatného!';

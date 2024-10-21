@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']           = 'Úspech: Plán predplatného bol úspešne obnovený!';
+$_['text_success']           = 'Úspech: Profil predplatného bol úspešne obnovený!';
 
 // Error
 $_['error_language']         = 'Upozornenie: Rozšírenie metódy platby sa nenašlo!';

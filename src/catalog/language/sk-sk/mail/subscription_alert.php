@@ -7,4 +7,4 @@ $_['text_subscription_id']      = 'ID predplatného:';
 $_['text_date_added']           = 'Dátum pridania:';
 $_['text_subscription_status']  = 'Stav predplatného:';
 $_['text_comment']              = 'Komentáre k vašim predplatným sú:';
-$_['text_canceled']             = 'Úspech: Plán predplatného bol zrušený!';
+$_['text_canceled']             = 'Úspech: Profil predplatného bol zrušený!';
