@@ -74,17 +74,17 @@ $_['button_grid']           = 'Vedľa seba';
 $_['button_map']            = 'Zobraziť na mape Google';
 
 // Error
-$_['error_exception']       = 'Chyba číslo (%s): %s v %s na riadku %s';
-$_['error_upload_1']        = 'Upozornenie: nahrávaný súbor prekročil hodnotu upload_max_filesize definovanú v php.ini!';
-$_['error_upload_2']        = 'Upozornenie: nahrávaný súbor prekročil hodnotu MAX_FILE_SIZE definovanú v HTML formulári!';
-$_['error_upload_3']        = 'Upozornenie: súbor sa nahral len čiastočne!';
-$_['error_upload_4']        = 'Upozornenie: súbor nebol nahraný!';
-$_['error_upload_6']        = 'Upozornenie: dočasný adresár nebol nájdený!';
-$_['error_upload_7']        = 'Upozornenie: súbor nebolo možné uložiť na disk!';
-$_['error_upload_8']        = 'Upozornenie: nahrávanie súboru bolo zastavené rozšírením!';
-$_['error_upload_999']      = 'Upozornenie: nie je dostupný chybový kód!';
+$_['error_exception']       = 'Kód chyby (%s): %s v %s na riadku %s';
+$_['error_upload_1']        = 'Upozornenie: Nahrávaný súbor prekročil hodnotu upload_max_filesize definovanú v php.ini!';
+$_['error_upload_2']        = 'Upozornenie: Nahrávaný súbor prekročil hodnotu MAX_FILE_SIZE definovanú v HTML formulári!';
+$_['error_upload_3']        = 'Upozornenie: Súbor sa nahral len čiastočne!';
+$_['error_upload_4']        = 'Upozornenie: Súbor nebol nahraný!';
+$_['error_upload_6']        = 'Upozornenie: Dočasný adresár nebol nájdený!';
+$_['error_upload_7']        = 'Upozornenie: Súbor nebolo možné zapísať!';
+$_['error_upload_8']        = 'Upozornenie: Nahrávanie súboru bolo zastavené nastavením!';
+$_['error_upload_999']      = 'Upozornenie: Žiadný dostupný kód chyby!';
 $_['error_upload_size']     = 'Upozornenie: Nahrávaný súbor prekračuje maximálnu veľkosť %smb!';
-$_['error_curl']            = 'CURL: Chyba číslo (%s): %s';
+$_['error_curl']            = 'cURL: Kód chyby (%s): %s';
 $_['error_session']         = 'Upozornenie: Relácia vypršala, prosím, odošlite formulár znova!';
 
 /* When doing translations only include the matching language code */

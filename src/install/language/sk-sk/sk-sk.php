@@ -8,4 +8,4 @@ $_['button_continue'] = 'Pokračovať';
 $_['button_back']     = 'Späť';
 
 // Error
-$_['error_exception'] = 'Chyba číslo (%s): %s v %s na riadku %s';
+$_['error_exception'] = 'Kód chyby (%s): %s v %s na riadku %s';
