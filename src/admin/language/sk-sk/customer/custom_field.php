@@ -35,7 +35,7 @@ $_['column_action']        = 'Akcia';
 
 // Entry
 $_['entry_name']           = 'Vlastný názov poľa';
-$_['entry_location']       = 'Location';
+$_['entry_location']       = 'Poloha';
 $_['entry_type']           = 'Typ';
 $_['entry_value']          = 'Hodnota';
 $_['entry_validation']     = 'Overenie';

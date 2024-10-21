@@ -14,7 +14,7 @@ $_['text_deny']             = 'Zamietnuť';
 
 // Column
 $_['column_customer']       = 'Zákazník';
-$_['column_email']          = 'E-Mail';
+$_['column_email']          = 'E-mail';
 $_['column_customer_group'] = 'Zákaznícka skupina';
 $_['column_type']           = 'Typ';
 $_['column_date_added']     = 'Dátum pridania';
@@ -22,7 +22,7 @@ $_['column_action']         = 'Akcia';
 
 // Entry
 $_['entry_customer']        = 'Zákazník';
-$_['entry_email']           = 'E-Mail';
+$_['entry_email']           = 'E-mail';
 $_['entry_customer_group']  = 'Zákaznícka skupina';
 $_['entry_type']            = 'Typ';
 $_['entry_date_from']       = 'Dátum od';

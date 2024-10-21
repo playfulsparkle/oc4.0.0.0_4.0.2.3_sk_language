@@ -14,7 +14,7 @@ $_['text_language']    = 'Jazyk';
 // Column
 $_['column_store']     = 'Obchod';
 $_['column_language']  = 'Jazyk';
-$_['column_route']     = 'Route';
+$_['column_route']     = 'Cesta';
 $_['column_key']       = 'Kľúč';
 $_['column_value']     = 'Hodnota';
 $_['column_action']    = 'Akcia';
@@ -22,7 +22,7 @@ $_['column_action']    = 'Akcia';
 // Entry
 $_['entry_store']      = 'Obchod';
 $_['entry_language']   = 'Jazyk';
-$_['entry_route']      = 'Route';
+$_['entry_route']      = 'Cesta';
 $_['entry_key']        = 'Kľúč';
 $_['entry_default']    = 'Predvolené';
 $_['entry_value']      = 'Hodnota';

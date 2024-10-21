@@ -10,7 +10,7 @@ $_['text_template']     = 'Vyberte šablónu';
 $_['text_default']      = 'Predvolené';
 $_['text_extension']    = 'Rozšírenie';
 $_['text_history']      = 'História témy';
-$_['text_twig']        = 'Editor tém používa jazyk šablóny Twig. <a href="http://twig.sensiolabs.org/documentation" target="_blank" class="alert-link">Tu si môžete prečítať Twig syntax</a>.';
+$_['text_twig']         = 'Editor tém používa jazyk šablóny Twig. <a href="http://twig.sensiolabs.org/documentation" target="_blank" class="alert-link">Tu si môžete prečítať Twig syntax</a>.';
 
 // Column
 $_['column_store']      = 'Obchod';
