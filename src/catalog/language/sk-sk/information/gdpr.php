@@ -18,8 +18,8 @@ $_['text_success']      = 'Úspech: E-mail bol odoslaný na vašu e-mailovú adr
 $_['text_cancel']       = 'Zrušiť';
 
 // Entry
-$_['entry_email']       = 'E-Mail';
+$_['entry_email']       = 'E-mail';
 
 // Error
-$_['error_email']       = 'E-Mailová adresa sa zdá byť neplatná!';
+$_['error_email']       = 'E-mailová adresa sa zdá byť neplatná!';
 $_['error_action']      = 'Musíte vybrať platnú akciu podľa GDPR!';

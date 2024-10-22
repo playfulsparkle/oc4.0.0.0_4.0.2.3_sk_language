@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Spôsob platby';
 
 // Text
-$_['text_payment_method']    = 'Možnosti platby';
+$_['text_payment_method']    = 'Spôsob platby';
 $_['text_payment']           = 'Prosím, vyberte preferovaný spôsob platby pre túto objednávku.';
 $_['text_comments']          = 'Pridať komentáre k vašej objednávke';
 $_['text_agree']             = 'Prečítal(a) som si a súhlasím s <a href="%s" class="modal-link"><b>%s</b></a>';
@@ -19,4 +19,4 @@ $_['error_payment_address']  = 'Adresa pre platbu je povinná!';
 $_['error_shipping_address'] = 'Adresa pre dopravu je povinná!';
 $_['error_shipping_method']  = 'Dodací spôsob je povinný!';
 $_['error_payment_method']   = 'Spôsob platby je povinný!';
-$_['error_no_payment']       = 'Žiadne možnosti platby nie sú dostupné. Prosím, <a href="%s">kontaktujte nás</a> pre pomoc!';
+$_['error_no_payment']       = 'Žiadne spôsob platby nie sú dostupné. Prosím, <a href="%s">kontaktujte nás</a> pre pomoc!';

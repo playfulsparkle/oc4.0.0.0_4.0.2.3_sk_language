@@ -14,7 +14,7 @@ $_['entry_password']        = 'Heslo';
 $_['entry_confirm']         = 'Potvrdiť';
 $_['entry_firstname']       = 'Meno';
 $_['entry_lastname']        = 'Priezvisko';
-$_['entry_email']           = 'E-Mail';
+$_['entry_email']           = 'E-mail';
 $_['entry_image']           = 'Obrázky';
 
 // Error
@@ -25,5 +25,5 @@ $_['error_password']        = 'Heslo musí byť dlhšie ako 4 znaky a kratšie n
 $_['error_confirm']         = 'Heslo a potvrdenie hesla sa nezhodujú!';
 $_['error_firstname']       = 'Meno musí byť dlhšie ako 1 znaky a kratšie než 32 znakov!';
 $_['error_lastname']        = 'Priezvisko musí byť dlhšie ako 1 znaky a kratšie než 32 znakov!';
-$_['error_email']           = 'E-Mail adresa sa zdá byť neplatná!';
-$_['error_email_exists']    = 'Upozornenie: E-Mail adresa je už zaregistrovaná!';
+$_['error_email']           = 'E-mail adresa sa zdá byť neplatná!';
+$_['error_email_exists']    = 'Upozornenie: E-mail adresa je už zaregistrovaná!';

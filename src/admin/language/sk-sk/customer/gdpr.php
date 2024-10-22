@@ -19,14 +19,14 @@ $_['text_remove']       = 'Odstrániť';
 $_['text_filter']       = 'Filter';
 
 // Column
-$_['column_email']      = 'E-Mail';
+$_['column_email']      = 'E-mail';
 $_['column_request']    = 'Žiadosť';
 $_['column_status']     = 'Stav';
 $_['column_date_added'] = 'Dátum pridania';
 $_['column_action']     = 'Akcia';
 
 // Entry
-$_['entry_email']       = 'E-Mail';
+$_['entry_email']       = 'E-mail';
 $_['entry_action']      = 'Akcia';
 $_['entry_status']      = 'Stav';
 $_['entry_date_from']   = 'Dátum od';

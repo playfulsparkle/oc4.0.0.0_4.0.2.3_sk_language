@@ -11,7 +11,7 @@ $_['text_signup']         = 'Nový zákazník sa zaregistroval:';
 $_['text_customer_group'] = 'Zákaznícka skupina:';
 $_['text_firstname']      = 'Meno:';
 $_['text_lastname']       = 'Priezvisko:';
-$_['text_email']          = 'E-Mail:';
+$_['text_email']          = 'E-mail:';
 $_['text_telephone']      = 'Telefón:';
 
 // Button

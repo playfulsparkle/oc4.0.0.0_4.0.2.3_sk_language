@@ -13,7 +13,7 @@ $_['text_guest']        = 'Host';
 $_['column_ip']         = 'IP adresa';
 $_['column_customer']   = 'Zákazník';
 $_['column_url']        = 'Posledná navštívená stránka';
-$_['column_referer']    = 'Referer';
+$_['column_referer']    = 'Odkazujúca stránka';
 $_['column_date_added'] = 'Posledný klik';
 $_['column_action']     = 'Akcia';
 

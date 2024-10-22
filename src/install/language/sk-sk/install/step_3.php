@@ -23,7 +23,7 @@ $_['entry_db_port']          = 'Port';
 $_['entry_db_prefix']        = 'Predpona';
 $_['entry_username']         = 'Meno';
 $_['entry_password']         = 'Heslo';
-$_['entry_email']            = 'E-Mail';
+$_['entry_email']            = 'E-mail';
 
 // Error
 $_['error_db_driver']        = 'Vyžaduje sa ovládač databázy!';

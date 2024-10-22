@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Spôsob dopravy';
 
 // Text
-$_['text_shipping_method']   = 'Možnosti spôsobu dopravy';
+$_['text_shipping_method']   = 'Spôsob dopravy';
 $_['text_shipping']          = 'Prosím, vyberte preferovaný spôsob dopravy pre túto objednávku.';
 $_['text_success']           = 'Úspech: Zmenili ste spôsob dopravy!';
 

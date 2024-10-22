@@ -18,7 +18,7 @@ $_['text_file']          = 'Súbor';
 $_['text_date']          = 'Dátum';
 $_['text_datetime']      = 'Dátum a čas';
 $_['text_time']          = 'Čas';
-$_['text_option']        = 'Možnosť';
+$_['text_option']        = 'Možnosti';
 $_['text_value']         = 'Hodnoty možností';
 
 // Column

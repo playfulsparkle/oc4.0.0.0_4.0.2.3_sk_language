@@ -24,4 +24,4 @@ $_['help_address_format']     = 'Meno = {firstname}<br/>Priezvisko = {lastname}<
 $_['error_permission']        = 'Upozornenie: Nemáte oprávnenie upravovať formáty adries!';
 $_['error_name']              = 'Názov formátu adresy musí byť dlhší ako 1 znak a kratší než 128 znakov!';
 $_['error_default']           = 'Upozornenie: Tento formát adresy nemôže byť odstránený, pretože je momentálne nastavený ako predvolený formát adresy!';
-$_['error_country']           = 'Upozornenie: Tento formát adresy nemôže byť odstránený, pretože je momentálne priradený k %s krajinám!';
+$_['error_country']           = 'Upozornenie: Tento formát adresy nemôže byť odstránený, pretože je momentálne priradený k %s štátu!';

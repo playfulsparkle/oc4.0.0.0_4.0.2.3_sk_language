@@ -30,7 +30,7 @@ $_['text_remaining']             = 'Zostávajúce';
 $_['text_payment_address']       = 'Adresa pre platbu';
 $_['text_payment_method']        = 'Spôsob platby';
 $_['text_shipping_address']      = 'Adresa pre dopravu';
-$_['text_shipping_method']       = 'Spôsob doručenia';
+$_['text_shipping_method']       = 'Spôsob dopravy';
 $_['text_history']               = 'História';
 $_['text_history_add']           = 'Pridať históriu';
 

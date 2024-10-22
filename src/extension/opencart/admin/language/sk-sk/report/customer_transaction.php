@@ -10,7 +10,7 @@ $_['text_filter']           = 'Filter';
 
 // Column
 $_['column_customer']       = 'Meno zákazníka';
-$_['column_email']          = 'E-Mail';
+$_['column_email']          = 'E-mail';
 $_['column_customer_group'] = 'Zákaznícka skupina';
 $_['column_status']         = 'Stav';
 $_['column_total']          = 'Suma';
