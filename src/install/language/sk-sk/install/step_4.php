@@ -23,4 +23,4 @@ $_['text_commercial_visit']       = 'Navštívte našu partnerskú stránku';
 $_['button_mail']                 = 'Prihlásiť sa';
 
 // Error
-$_['error_warning']               = 'Nezabudnite zmazať inštalačný adresár!';
+$_['error_warning']               = 'Nezabudnite odstrániť svoj inštalačný adresár!';

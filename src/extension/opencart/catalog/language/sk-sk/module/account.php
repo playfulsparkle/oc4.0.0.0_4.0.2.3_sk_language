@@ -18,4 +18,4 @@ $_['text_reward']       = 'Vernostné body';
 $_['text_return']       = 'Reklamácie';
 $_['text_transaction']  = 'Transakcie';
 $_['text_newsletter']   = 'Novinky';
-$_['text_subscription'] = 'Predplatné';
+$_['text_subscription'] = 'Predplatné platby';
