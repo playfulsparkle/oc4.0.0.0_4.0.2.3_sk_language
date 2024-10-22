@@ -16,4 +16,4 @@ $_['text_account']      = 'Môj účet';
 $_['text_order']        = 'História objednávok';
 $_['text_wishlist']     = 'Obľúbené produkty';
 $_['text_newsletter']   = 'Novinky';
-$_['text_powered']      = 'Beží na <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
+$_['text_powered']      = 'Beží na <a href="http://www.opencart.com" target="_blank" rel="external noopener noreferrer">OpenCart</a><br /> %s &copy; %s';

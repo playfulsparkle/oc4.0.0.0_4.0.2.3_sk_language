@@ -6,7 +6,7 @@ $_['heading_title']        = 'Cron úlohy';
 $_['text_success']         = 'Úspech: Cron úlohy boli upravené!';
 $_['text_instruction']     = 'Pokyny pre CRON';
 $_['text_list']            = 'Zoznam Cron úloh';
-$_['text_cron_1']          = 'Cron úlohy sú plánované úlohy, ktoré sa vykonávajú pravidelne. Na nastavenie serverov na používanie cron úloh si môžete prečítať <a href="http://docs.opencart.com/extension/cron/" target="_blank" class="alert-link">dokumentáciu OpenCart</a>.';
+$_['text_cron_1']          = 'Cron úlohy sú plánované úlohy, ktoré sa vykonávajú pravidelne. Na nastavenie serverov na používanie cron úloh si môžete prečítať <a href="http://docs.opencart.com/extension/cron/" target="_blank" rel="external noopener noreferrer" class="alert-link">dokumentáciu OpenCart</a>.';
 $_['text_cron_2']          = 'Musíte nastaviť vašu Cron úlohu na spúšťanie každú hodinu.';
 $_['text_info']            = 'Informácie o CRON';
 $_['text_hour']            = 'Hodina';

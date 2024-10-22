@@ -4,7 +4,7 @@ $_['heading_title']    = 'OpenCart Marketplace API';
 
 // Text
 $_['text_success']     = 'Úspech: Vaše API informácie boli upravené!';
-$_['text_signup']      = 'Prosím, zadajte vaše OpenCart API informácie, ktoré <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" class="alert-link">môžete získať tu</a>.';
+$_['text_signup']      = 'Prosím, zadajte vaše OpenCart API informácie, ktoré <a href="https://www.opencart.com/index.php?route=account/store" target="_blank" rel="external noopener noreferrer" class="alert-link">môžete získať tu</a>.';
 
 // Entry
 $_['entry_username']   = 'Užívateľské meno';

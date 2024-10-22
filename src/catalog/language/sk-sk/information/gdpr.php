@@ -4,7 +4,7 @@ $_['heading_title']     = 'Žiadosť o ochranu osobných údajov podľa GDPR';
 
 // Text
 $_['text_account']      = 'Účet';
-$_['text_gdpr']         = 'Môžete si prezrieť %s politiku GDPR na stránke <a href="%s" target="_blank">%s</a>.';
+$_['text_gdpr']         = 'Môžete si prezrieť %s politiku GDPR na stránke <a href="%s" target="_blank" rel="external noopener noreferrer">%s</a>.';
 $_['text_verification'] = 'Overenie účtu';
 $_['text_email']        = 'Pred tým, ako budeme môcť vykonať akékoľvek žiadosti podľa GDPR, musíme overiť váš účet. Prosím, zadajte svoju e-mailovú adresu nižšie.';
 $_['text_action']       = 'Vyberte akciu';

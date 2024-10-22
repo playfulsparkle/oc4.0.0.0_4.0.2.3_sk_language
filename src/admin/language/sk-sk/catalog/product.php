@@ -4,7 +4,7 @@ $_['heading_title']           = 'Produkty';
 
 // Text
 $_['text_success']            = 'Úspech: Produkty boli úspešne upravené!';
-$_['text_variant']            = 'Upozorňujeme, že keďže ide o variant produktu, musíte prepísať údaje <a href="%s" target="_blank" class="alert-link">hlavného produktu</a>. Inak budú údaje pri uložení nahradené údajmi <a href="%s" target="_blank" class="alert-link">hlavného produktu</a>.';
+$_['text_variant']            = 'Upozorňujeme, že keďže ide o variant produktu, musíte prepísať údaje <a href="%s" target="_blank" rel="external noopener noreferrer" class="alert-link">hlavného produktu</a>. Inak budú údaje pri uložení nahradené údajmi <a href="%s" target="_blank" rel="external noopener noreferrer" class="alert-link">hlavného produktu</a>.';
 $_['text_list']               = 'Zoznam produktov';
 $_['text_add']                = 'Pridať produkt';
 $_['text_edit']               = 'Upraviť produkt';

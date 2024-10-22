@@ -231,7 +231,7 @@ $_['help_captcha']                        = 'Captcha na použitie pri registrác
 $_['help_mail_engine']                    = 'Vyberte iba \'Mail\', ak váš hostiteľ nezakázal funkciu php mail.';
 $_['help_mail_parameter']                 = 'Pri používaní \'Mail\' môžete pridať ďalšie parametre e-mailu (napr. -f email@mojeshop.sk).';
 $_['help_mail_smtp_hostname']             = 'Pridajte prefix \'tls://\' alebo \'ssl://\' ak je požadované zabezpečené pripojenie. (napr. tls://smtp.gmail.com, ssl://smtp.gmail.com).';
-$_['help_mail_smtp_password']             = 'Pre Gmail možno budete musieť nastaviť špecifické heslo aplikácie tu: <a href="https://security.google.com/settings/security/apppasswords" target="_blank">https://security.google.com/settings/security/apppasswords</a>.';
+$_['help_mail_smtp_password']             = 'Pre Gmail možno budete musieť nastaviť špecifické heslo aplikácie tu: <a href="https://security.google.com/settings/security/apppasswords" target="_blank" rel="external noopener noreferrer">https://security.google.com/settings/security/apppasswords</a>.';
 $_['help_mail_alert']                     = 'Vyberte, na aké funkcie chcete dostávať upozornenia e-mailom, keď ich zákazník použije.';
 $_['help_mail_alert_email']               = 'Akékoľvek ďalšie e-maily, na ktoré chcete dostávať upozornenia e-mailom, okrem hlavného e-mailu obchodu. (oddelené čiarkami).';
 $_['help_session_expire']                 = 'Nastavte dĺžku života PHP relácie v sekundách (napr. 3600 = 1 hodina).';

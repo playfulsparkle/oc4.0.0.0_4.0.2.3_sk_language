@@ -6,7 +6,7 @@ $_['heading_title']    = 'Fixer';
 $_['text_extension']   = 'Rozšírenia';
 $_['text_success']     = 'Úspech: Úpravy kurzu mien Fixer boli úspešne vykonané!';
 $_['text_edit']        = 'Upraviť Fixer';
-$_['text_signup']      = 'Fixer.io je služba na konverziu mien <a href="https://fixer.io/" target="_blank" class="alert-link">zaregistrujte sa tu</a>.';
+$_['text_signup']      = 'Fixer.io je služba na konverziu mien <a href="https://fixer.io/" target="_blank" rel="external noopener noreferrer" class="alert-link">zaregistrujte sa tu</a>.';
 
 // Entry
 $_['entry_api']        = 'API Prístupový kľúč';

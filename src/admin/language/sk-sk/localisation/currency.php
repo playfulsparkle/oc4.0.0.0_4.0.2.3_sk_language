@@ -7,7 +7,7 @@ $_['text_success']         = 'Úspech: Úspešne ste upravili meny!';
 $_['text_list']            = 'Zoznam mien';
 $_['text_add']             = 'Pridať menu';
 $_['text_edit']            = 'Upraviť menu';
-$_['text_iso']             = 'Úplný zoznam ISO kódov mien a <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">nastavení nájdete tu</a>.';
+$_['text_iso']             = 'Úplný zoznam ISO kódov mien a <a href="http://www.xe.com/iso4217.php" target="_blank" rel="external noopener noreferrer" class="alert-link">nastavení nájdete tu</a>.';
 
 // Column
 $_['column_title']         = 'Názov meny';
