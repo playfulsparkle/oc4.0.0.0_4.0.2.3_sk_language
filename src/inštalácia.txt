@@ -2,8 +2,8 @@ Slovenský jazyk pre OpenCart 4
 
 Kompletný balík slovenského jazyka pre verziu OpenCart 4! Tento balík obsahuje všetky potrebné jazykové súbory pre administrátorské rozhranie, frontend, rozšírenia a proces inštalácie. Preklad je dostupný pre verzie OpenCart 4+.
 
-Demo frontend - https://demo.playfulsparkle.com/opencart4/  
-Demo backend - https://demo.playfulsparkle.com/opencart4/admin/
+Demo frontend - https://opencart4.playfulsparkle.com/  
+Demo backend - https://opencart4.playfulsparkle.com/admin/
 
 Hlavné vlastnosti
 
