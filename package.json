@@ -4,7 +4,8 @@
   "description": "Slovak Language for OpenCart 4",
   "main": "index.js",
   "scripts": {
-    "compress": "node compress.js"
+    "compress auto": "node compress_auto.js",
+    "compress manual": "node compress_manual.js"
   },
   "keywords": [
     "opencart",

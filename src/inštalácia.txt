@@ -29,7 +29,7 @@ Upozornenie: Ak ste nainštalovali jazykový balíček pomocou inštalátora roz
 
 Manuálna inštalácia
 
-1. Stiahnite si balík "Slovak language" z OpenCart Marketplace.
+1. Stiahnite si "ps_sk_language.zip" balík "Slovak language" z OpenCart Marketplace.
 2. Extrahujte súbory jazykového balíka do priečinka.
 3. Použite svoj obľúbený FTP klient a prejdite do inštalačného adresára OpenCart 4.
 4. Nahrajte nasledujúce priečinky: "admin", "catalog", "extension" (a "install", ak práve inštalujete OpenCart 4).

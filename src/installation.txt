@@ -29,7 +29,7 @@ Caution: If you installed the language pack using the extension installer, then 
 
 Manual Installation
 
-1. Download the "Slovak language" package from the OpenCart Marketplace.
+1. Download the "Slovak language" package "ps_sk_language.zip" from the OpenCart Marketplace.
 2. Extract the language package files to a folder.
 3. Use your preferred FTP client and navigate to the OpenCart 4 installation directory.
 4. Upload the following folders: "admin", "catalog", "extension" (and "install" if you are installing OpenCart 4 for the first time).
