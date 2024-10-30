@@ -1,7 +1,7 @@
 {
   "name": "oc4_sk_language",
   "version": "1.0.0",
-  "description": "Slovak language for OpenCart 4",
+  "description": "Slovak (formal) language for OpenCart 4",
   "main": "index.js",
   "scripts": {
     "compress auto": "node compress_auto.js",
