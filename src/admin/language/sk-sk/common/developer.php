@@ -15,7 +15,7 @@ $_['column_action']    = 'Akcia';
 // Entry
 $_['entry_theme']      = 'Téma';
 $_['entry_sass']       = 'SASS';
-$_['entry_cache']      = 'Cache pamäť';
+$_['entry_cache']      = 'Vyrovnávacia pamäť';
 
 // Button
 $_['button_on']        = 'Zapnuté';

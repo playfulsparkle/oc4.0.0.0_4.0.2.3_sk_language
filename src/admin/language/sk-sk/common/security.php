@@ -18,7 +18,7 @@ $_['text_path']                 = 'Cesta';
 $_['entry_path']                = 'Cesta';
 $_['entry_path_current']        = 'Súčasná cesta';
 $_['entry_path_new']            = 'Nová cesta';
-$_['entry_name']                = 'Meno adresára';
+$_['entry_name']                = 'Názov adresára';
 
 // Button
 $_['button_move']               = 'Presunúť';
