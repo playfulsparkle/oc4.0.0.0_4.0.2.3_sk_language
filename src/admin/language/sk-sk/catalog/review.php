@@ -24,7 +24,6 @@ $_['entry_author']      = 'Autor';
 $_['entry_rating']      = 'Hodnotenie';
 $_['entry_status']      = 'Stav';
 $_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Dátum pridania';
 $_['entry_date_from']   = 'Dátum od';
 $_['entry_date_to']     = 'Dátum do';
 
