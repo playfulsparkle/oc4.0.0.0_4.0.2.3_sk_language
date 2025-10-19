@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Slovak language';
 
 // Text
-$_['text_extension']   = 'Extensions';
+$_['text_extension']   = 'Rozšírenia';
 $_['text_success']     = 'Success: You have modified Slovak language!';
 $_['text_edit']        = 'Edit Slovak Language';
 
