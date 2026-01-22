@@ -20,12 +20,12 @@ $_['column_action']        = 'Akcia';
 
 // Entry
 $_['entry_username']       = 'Názov API';
-$_['entry_key']            = 'API Key';
+$_['entry_key']            = 'API kľúč';
 $_['entry_status']         = 'Stav';
 $_['entry_ip']             = 'IP adresa';
 
 // Error
 $_['error_permission']     = 'Upozornenie: Nemáte oprávnenie na úpravu API!';
 $_['error_username']       = 'Názov API musí byť dlhšie ako 3 znaky a kratšie než 20 znakov!';
-$_['error_key']            = 'API Key musí byť dlhšie ako 64 znaky a kratšie než 256 znakov!';
+$_['error_key']            = 'API kľúč musí byť dlhšie ako 64 znaky a kratšie než 256 znakov!';
 $_['error_ip']             = 'Musíte mať pridanú aspoň jednu IP adresu do povoleného zoznamu!';
