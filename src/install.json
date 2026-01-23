@@ -1,6 +1,6 @@
 {
   "name": "Slovak (formal) language",
-  "description": "Complete Slovak language pack for OpenCart 4.x+, covering admin, frontend, extensions, and installation for seamless localization.",
+  "description": "Complete Slovak language pack for OpenCart 4.0.0.0-4.0.2.3, covering admin, frontend, extensions, and installation for seamless localization.",
   "code": "ps_sk_language",
   "license": "GPL",
   "version": "1.0.1",
